@@ -4,6 +4,13 @@
 
 This project is a command-line application that generates simple SVG logos based on user input. This tool is designed to help web developers quickly create basic logos for their projects without the need for graphic design skills or software.
 
+## Table of Contents
+
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Mock Up](#mock-up)
+- [Technology Used](#technologies-used)
+
 ## User Story
 
 ```
