@@ -39,6 +39,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## Mock Up
+[Video Preview](https://www.youtube.com/watch?v=0qxbvU-HXE0&ab_channel=richnguyen)
+![alt text](./assets/images/svglogomaker.png)
 
 ## Technologies Used
 - Node.js
